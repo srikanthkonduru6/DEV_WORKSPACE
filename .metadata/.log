@@ -50,3 +50,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -showlocation -product
 
 !ENTRY com.ibm.mq.runtime 1 0 2022-07-20 22:01:58.794
 !MESSAGE 
+
+!ENTRY com.ibm.etools.mft.uri 0 0 2022-07-20 22:06:56.584
+!MESSAGE 
